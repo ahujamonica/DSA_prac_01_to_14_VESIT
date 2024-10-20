@@ -245,3 +245,135 @@ void search()
 	}    
 }
 
+OUPUT:
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+1
+
+Enter Item value: 10
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+1
+
+Enter Item value: 20
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+2
+
+Enter value: 30
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+6
+
+printing values ...
+20
+10
+30
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+3
+
+node deleted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+6
+
+printing values ...
+10
+30
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in Beginning
+2. Insert at last
+3. Delete from Beginning
+4. Delete from last
+5. Search
+6. Show
+7. Exit
+
+Enter your choice?
+7
+
+
