@@ -241,3 +241,117 @@ int main() {
  
 	return 0;
 }
+OUTPUT:
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 1
+Enter the value to insert at beginning: 10
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 2
+Enter the value to insert at end: 30
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 9
+Linked list:  10  30 
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 3
+Enter the position after which to insert (0 for head): 1
+Enter the value to insert: 20
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 9
+Linked list:  10  20  30 
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 5
+Enter the position to delete (0 for head): 1
+Deleted at position 1
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 9
+Linked list:  10  30 
+
+Menu:
+1. Insert at beginning
+2. Insert at end
+3. Insert after a specific position
+4. Delete at beginning
+5. Delete at specific position
+6. Delete at end
+7. Search for a node
+8. Sort the list
+9. Print the list
+10. Exit
+Enter your choice: 10
