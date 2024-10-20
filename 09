@@ -49,3 +49,12 @@ int main() {
   printf("\n"); 
   return 0; 
 }
+OUTPUT:
+Preorder:
+ D  A  E  G  Q  B  F  R  T  V  J  L 
+
+Postorder:
+ G  Q  E  B  A  R  J  V  L  T  F  D 
+
+Inorder:
+ G  E  Q  A  B  D  R  F  J  V  T  L 
