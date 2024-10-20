@@ -67,3 +67,11 @@ int main() {
  
 	return 0;
 }
+OUTPUT:
+Element 10 inserted
+Element 20 inserted
+Element 30 inserted
+Queue elements: 10 20 30 
+Dequeued element: 10
+Queue elements: 20 30 
+
