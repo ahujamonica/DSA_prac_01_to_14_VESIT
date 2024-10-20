@@ -267,3 +267,149 @@ void clearList() {
     } 
     printf("\nAll nodes deleted\n"); 
 }
+
+OUTPUT:
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+1
+
+Enter the node data? 10
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+1
+
+Enter the node data? 20
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+2
+
+Enter Data? 30
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+8
+
+Printing values ...
+20
+10
+30
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+4
+
+Node deleted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+8
+
+Printing values ...
+10
+30
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+1. Insert in beginning
+2. Insert at last
+3. Insert at Random Position
+4. Delete from Beginning
+5. Delete from Last
+6. Delete from Random Position
+7. Search for an element
+8. Show
+9. Exit
+
+Enter your choice?
+9
+
+All nodes deleted
