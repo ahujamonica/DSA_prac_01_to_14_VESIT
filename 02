@@ -111,3 +111,7 @@ char pop(char st[]) {
     return val;
 }
 
+OUTPUT:
+
+Enter any infix expression : A+B*C-(D/E+F*G)
+The corresponding postfix expression is : ABC*+DE/FG*+-
