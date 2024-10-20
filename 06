@@ -94,3 +94,12 @@ int main() {
 
     return 0;
 } 
+OUTPUT:
+
+Current text: CBA
+Performing undo...
+Current text: BA
+Performing undo...
+Current text: A
+Performing redo...
+Current text: BA
