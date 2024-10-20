@@ -81,3 +81,80 @@ void display() {
     	}
 	}
 }
+
+OUTPUT:
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 1
+
+Enter the element
+10
+
+Value inserted
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 1
+
+Enter the element
+20
+
+Value inserted
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 3
+
+Printing values .....
+
+10
+20
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 2
+
+Value deleted
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 3
+
+Printing values .....
+
+20
+
+Choose the Operation to perform:
+
+1. Insert an element
+2. Delete an element
+3. Display the queue
+4. Exit
+
+Enter your choice ? 4
