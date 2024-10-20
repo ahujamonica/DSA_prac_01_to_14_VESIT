@@ -100,3 +100,75 @@ int peek(int st[]) {
     }
 }
 
+OUTPUT:
+
+
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 1
+
+ Enter the number to be pushed on stack: 23
+
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 1
+
+ Enter the number to be pushed on stack: 34
+
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 1
+
+ Enter the number to be pushed on stack: 66
+
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 2
+
+ The value deleted from stack is: 66
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 3
+
+ The value stored at top of stack is: 34
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 4
+
+ 34
+ 23
+
+ *****MAIN MENU*****
+ 1. PUSH
+ 2. POP
+ 3. PEEK
+ 4. DISPLAY
+ 5. EXIT
+ Enter your option: 5
+
+
+=== Code Execution Successful ===
