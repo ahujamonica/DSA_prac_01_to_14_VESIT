@@ -168,3 +168,47 @@ int count_nodes(struct node* root) {
 	if (root == NULL) return 0;
 	return 1 + count_nodes(root->left) + count_nodes(root->right);
 }
+
+OUTPUT:
+------- AVL TREE --------
+1. Insert
+2. Delete
+3. Search
+4. Show Tree (Inorder, Preorder, Postorder)
+5. Node Count
+6. Exit
+
+Enter Your Choice: 1
+Enter data: 10
+
+Continue? (y/n): y
+
+------- AVL TREE --------
+1. Insert
+2. Delete
+3. Search
+4. Show Tree (Inorder, Preorder, Postorder)
+5. Node Count
+6. Exit
+
+Enter Your Choice: 4
+
+Inorder: 10 
+Preorder: 10 
+Postorder: 10 
+
+Continue? (y/n): y
+
+------- AVL TREE --------
+1. Insert
+2. Delete
+3. Search
+4. Show Tree (Inorder, Preorder, Postorder)
+5. Node Count
+6. Exit
+
+Enter Your Choice: 5
+
+Total nodes: 1
+
+Continue? (y/n): n
